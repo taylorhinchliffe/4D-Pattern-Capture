@@ -40,6 +40,8 @@ Under the following terms:
 any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 For more details, please refer to the [full license](https://creativecommons.org/licenses/by/4.0/).
 
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+
 ## Credits
 	•	Developed by Taylor Hinchliffe.
 	•	Inspired by the intersection of art and science.
