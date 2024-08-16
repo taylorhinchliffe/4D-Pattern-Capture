@@ -17,6 +17,7 @@ such as the cell division rate of a microscopy file.
 2. Click and hold background, lighting and blend mode menus to adjust.
 3. Use sliders to adjust image distance, transparency and contrast.
 4. The time scale bar below the 3D object represents the timeline of the video.
+5. Pinch to zoom in and out, and left click and hold to rotate. Use two-finger touch on the trackpad to pan and move around.
 
 ## Best Practices:
 1. Recommended videos are those with high contrast, and dark or light, preferably black or white, backgrounds, such as microscopy videos
