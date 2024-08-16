@@ -19,9 +19,11 @@ such as the cell division rate of a microscopy file.
 4. The time scale bar below the 3D object represents the timeline of the video.
 
 ## Best Practices:
-A) Note: the contrast slider can only be adjusted BEFORE adding a video.
-B) Recommended initial settings are a black or white background, constant lighting, and 'replace' blend mode.
-C) Even when optimized with Metal, this is a GPU and memory intensive app. Therefore, consider starting with shorter videos under 100mb. 
+1. Recommended videos are those with high contrast, and dark or light, preferably black or white, backgrounds, such as microscopy videos
+or those taken at night.
+2. Note: the contrast slider can only be adjusted BEFORE adding a video.
+3. Recommended initial settings are a black or white background, constant lighting, and 'replace' blend mode.
+4. Even when optimized with Metal, this is a GPU and memory intensive app. Therefore, consider starting with shorter videos under 100mb. 
 
 ## Contributing
 	1.	Fork the repository.
