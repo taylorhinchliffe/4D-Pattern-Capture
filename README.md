@@ -8,7 +8,7 @@ such as the cell division rate of a microscopy file.
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/4D-Pattern-Capture.git
+   git clone https://github.com/taylorhinchliffe/4D-Pattern-Capture.git
 2. Open the Xcode project file 4D Pattern Capture.xcodeproj
 3. Build and run the project in Xcode.
 
